@@ -12,4 +12,3 @@ class BancoBravos:
         self.saldo = self.saldo-saldoQuitar
     def mostrarSaldo(self):
         print(f'El saldo actual de {self.nombre} es de {self.saldo}')
-    
